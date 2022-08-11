@@ -1,2 +1,1 @@
-# probe-type-d
-Domain Probe
+NET PROBE
